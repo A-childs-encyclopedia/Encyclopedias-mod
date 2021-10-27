@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "encyclopedias_mod:blocks/swampwood_leaves",
+    "particle": "encyclopedias_mod:blocks/swampwood_leaves"
+  }
+}

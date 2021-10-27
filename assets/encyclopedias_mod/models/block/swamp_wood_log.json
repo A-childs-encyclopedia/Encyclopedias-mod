@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "encyclopedias_mod:blocks/swampwood_log_top",
+    "up": "encyclopedias_mod:blocks/swampwood_log_top",
+    "north": "encyclopedias_mod:blocks/swampwood_log_side",
+    "east": "encyclopedias_mod:blocks/swampwood_log_side",
+    "south": "encyclopedias_mod:blocks/swampwood_log_side",
+    "west": "encyclopedias_mod:blocks/swampwood_log_side",
+    "particle": "encyclopedias_mod:blocks/swampwood_log_top"
+  }
+}

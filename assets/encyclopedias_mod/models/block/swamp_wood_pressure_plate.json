@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "encyclopedias_mod:blocks/swampwood_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "encyclopedias_mod:blocks/texture",
+    "up": "encyclopedias_mod:blocks/texture",
+    "north": "encyclopedias_mod:blocks/texture",
+    "east": "encyclopedias_mod:blocks/texture",
+    "south": "encyclopedias_mod:blocks/texture",
+    "west": "encyclopedias_mod:blocks/texture",
+    "particle": "encyclopedias_mod:blocks/particledimension"
+  }
+}

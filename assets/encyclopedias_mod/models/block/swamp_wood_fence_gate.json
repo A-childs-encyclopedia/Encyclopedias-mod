@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "encyclopedias_mod:blocks/swampwood_planks"
+  }
+}

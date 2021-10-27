@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "encyclopedias_mod:block/dimension_block"
+    }
+  }
+}
