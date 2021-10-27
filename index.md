@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the official website for Encyclopedia's mod!
 
 You can use the [editor on GitHub](https://github.com/A-childs-encyclopedia/Encyclopedias-mod/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
